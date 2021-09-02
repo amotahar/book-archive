@@ -1,4 +1,4 @@
-  // element selection
+  //// element selection
   const bookContainer = document.getElementById('book-container')
   const result = document.getElementById('result')
   const searchText = document.getElementById('search-text');
